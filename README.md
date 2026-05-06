@@ -1,5 +1,5 @@
 # algorithm-design
 
-**Author Priyanshu Shara**
+**Author Priyanshu Sharan**
 
 USN 1WA24CS223
