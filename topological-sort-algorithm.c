@@ -115,3 +115,18 @@ int main() {
 
     return 0;
 }
+
+/*
+OUTPUT
+Enter the number of vertices: 6
+
+Enter the adjacency matrix row by row (use 1 for an edge, 0 for no edge):
+Enter values for row 0 (separated by spaces): 0 1 1 0 0 0
+Enter values for row 1 (separated by spaces): 0 0 0 1 0 0
+Enter values for row 2 (separated by spaces): 0 0 0 1 1 0
+Enter values for row 3 (separated by spaces): 0 0 0 0 0 1
+Enter values for row 4 (separated by spaces): 0 0 0 0 0 1
+Enter values for row 5 (separated by spaces): 0 0 0 0 0 0
+
+Topological Ordering: 0 1 2 3 4 5
+*/
