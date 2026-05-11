@@ -162,3 +162,27 @@ int main() {
     printf("Exiting program.\n");
     return 0;
 }
+
+/*
+OUTPUT
+Enter the number of elements (N) to sort: 10
+
+Original Array: 4521 9834 127 7654 2311 998 4500 321 8765 1111
+
+Sorted Array:   127 321 998 1111 2311 4500 4521 7654 8765 9834
+
+--> Time taken to sort 10 elements: 0.000012 seconds <--
+
+Do you want to test another value of N? (y/n): y
+
+Enter the number of elements (N) to sort: 5
+
+Original Array: 55 12 89 3 41
+
+Sorted Array:   3 12 41 55 89
+
+--> Time taken to sort 5 elements: 0.000004 seconds <--
+
+Do you want to test another value of N? (y/n): n
+Exiting program.
+*/
