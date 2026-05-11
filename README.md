@@ -1,61 +1,85 @@
-# Analysis and Design of Algorithms (ADA)
+<div align="center">
 
-This repository contains C programs implemented as part of the **Analysis and Design of Algorithms (ADA)** laboratory course at **BMS College of Engineering, Bengaluru**.
+# 🚀 Analysis and Design of Algorithms (ADA)
 
-## Student Details
+### BMS College of Engineering, Bengaluru
 
-- **Name:** Priyanshu Sharan  
-- **USN:** 1WA24CS223  
-- **Department:** Computer Science and Engineering  
-- **College:** BMS College of Engineering (BMSCE), Bengaluru  
-
-## Faculty Details
-
-- **Faculty Name:** Amrutha  
+<img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/College-BMSCE-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Course-ADA-green?style=for-the-badge" />
 
 ---
 
-# Algorithms Included
+## 👨‍🎓 Student Details
 
-## Unit 1
-- Introduction to Algorithms
-- Mathematical Analysis of Algorithms
-- Asymptotic Notations
+| Detail | Information |
+|---|---|
+| **Name** | Priyanshu Sharan |
+| **USN** | 1WA24CS223 |
+| **Department** | Computer Science and Engineering |
+| **College** | BMS College of Engineering |
 
-## Unit 2
-### Divide and Conquer
+---
+
+## 👩‍🏫 Faculty Details
+
+| Detail | Information |
+|---|---|
+| **Faculty Name** | Tr. Amrutha Varshini |
+| **Course** | Design and Analysis of Algorithms (DAA) |
+| **College** | BMSCE |
+
+</div>
+
+---
+
+# 📚 About Repository
+
+This repository contains all the **ADA Laboratory Programs** implemented in **C Programming Language** as part of the **Analysis and Design of Algorithms Laboratory** course at **BMS College of Engineering**.
+
+The programs are implemented according to the VTU/BMSCE syllabus and include:
+
+- Sorting Algorithms
+- Greedy Algorithms
+- Dynamic Programming
+- Graph Algorithms
+- Backtracking Algorithms
+- Divide and Conquer Techniques
+
+---
+
+# 🧠 Algorithms Implemented
+
+## 🔹 Divide and Conquer
 - Merge Sort
 - Quick Sort
 
-### Greedy Method
+## 🔹 Transform and Conquer
+- Heap Sort
+
+## 🔹 Greedy Algorithms
 - Prim's Algorithm
 - Kruskal's Algorithm
 - Dijkstra's Algorithm
 - Fractional Knapsack
 
-## Unit 3
-### Transform and Conquer
-- Heap Sort
-
-## Unit 4
-### Dynamic Programming
-- 0/1 Knapsack using Dynamic Programming
+## 🔹 Dynamic Programming
+- 0/1 Knapsack
 - Floyd Warshall Algorithm
 
-## Unit 5
-### Backtracking
+## 🔹 Backtracking
 - N-Queens Problem
 - Johnson-Trotter Algorithm
 
-### Graph Algorithms
+## 🔹 Graph Algorithms
 - Topological Sort
 
 ---
 
-# Programs Available
+# 📂 Program List
 
-| Sl. No | Program Name | File Name |
-|-------|------------------------------|-------------------------------|
+| Sl No | Program Name | File Name |
+|---|---|---|
 | 1 | Merge Sort | `merge-sort.c` |
 | 2 | Quick Sort | `quick-sort.c` |
 | 3 | Heap Sort | `heap-sort.c` |
@@ -71,9 +95,67 @@ This repository contains C programs implemented as part of the **Analysis and De
 
 ---
 
-# How to Run the Programs
+# ⚙️ How to Run
 
-## Compile
+## ✅ Compile the Program
 
 ```bash
 gcc filename.c -o output
+```
+
+## ▶️ Execute the Program
+
+### Linux / MacOS
+```bash
+./output
+```
+
+### Windows
+```bash
+output.exe
+```
+
+---
+
+# 🛠️ Technologies Used
+
+- **Programming Language:** C
+- **Compiler:** GCC
+- **IDE:** Visual Studio Code
+- **Version Control:** Git & GitHub
+
+---
+
+# 🎯 Repository Objectives
+
+- Learn algorithm design techniques
+- Implement algorithms using C
+- Understand time and space complexity
+- Practice problem solving
+- Prepare for lab exams and viva
+
+---
+
+# 📖 Course Topics Covered
+
+- Asymptotic Analysis
+- Divide and Conquer
+- Greedy Method
+- Dynamic Programming
+- Graph Algorithms
+- Backtracking
+- NP-Completeness
+
+---
+
+<div align="center">
+
+# ⭐ Thank You ⭐
+
+### Created by  
+## Priyanshu Sharan  
+### USN: 1WA24CS223
+
+### BMS College of Engineering, Bengaluru
+
+</div>
