@@ -81,3 +81,22 @@ int main() {
 
     return 0;
 }
+
+/*
+OUTPUT
+Enter the number of vertices in the graph: 4
+
+Enter the adjacency matrix row by row.
+(Note: Use 99999 to represent Infinity for nodes that are not directly connected)
+
+Enter values for row 1 (separated by spaces): 0 5 99999 10
+Enter values for row 2 (separated by spaces): 99999 0 3 99999
+Enter values for row 3 (separated by spaces): 99999 99999 0 1
+Enter values for row 4 (separated by spaces): 99999 99999 99999 0
+
+Shortest distances between every pair of vertices:
+      0      5      8      9
+    INF      0      3      4
+    INF    INF      0      1
+    INF    INF    INF      0
+*/
